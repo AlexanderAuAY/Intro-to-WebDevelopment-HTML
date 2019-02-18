@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Alex's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Pineapple">Recipe #1</a></li>
+             <li><a href="#Tomato">Recipe #2</a></li>
+             <li><a href="#Apple">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="Pineapple">Pineapple</h2>
+        
+        <ul>
+            <li>Time: 1 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Knife</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                   <td>Pineapple</td>
+                    <td>1</td>
+                </tr>
+                 <tr>
+                   <td>Brain</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Step 1:</strong> Cut pineapple
+</p>
+         <p><strong>Step 2:</strong> Eat pineapple
+</p>
+    <p><em>Source: <a href="https://www.google.com/search?tbm=isch&q=site:wikipedia.org+pineapple&cad=h">Pineapple</a></em></p>
+    
+     <h2 id="Tomato">Tomato</h2>
+    <ul>
+            <li>Time: 1 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Knife</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                   <td>Tomato</td>
+                    <td>1</td>
+                </tr>
+                 <tr>
+                   <td>Brain</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Step 1:</strong> Cut tomato
+</p>
+         <p><strong>Step 2:</strong> Eat tomato
+</p>
+    <p><em>Source: <a href="https://www.google.com/search?safe=strict&tbm=isch&sa=1&ei=DcddXJGWLsrG5gKxnoygCQ&q=site%3Awikipedia.org+tomato&oq=site%3Awikipedia.org+tomato&gs_l=img.3...2033.3144..3452...0.0..0.98.543.7......1....1..gws-wiz-img.JNqgeDCvnh4">Tomato</a></em></p>
+    
+    <h2 id="Apple">Apple</h2>
+    <ul>
+            <li>Time: 1 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Knife</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                   <td>Apple</td>
+                    <td>1</td>
+                </tr>
+                 <tr>
+                   <td>Brain</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Step 1:</strong> Cut apple
+</p>
+         <p><strong>Step 2:</strong> Eat apple
+</p>
+    <p><em>Source: <a href="https://www.google.com/search?safe=strict&tbm=isch&sa=1&ei=ssddXNiPMcbz5gLq5KCoCg&q=site%3Awikipedia.org+apple+fruit&oq=site%3Awikipedia.org+apple+fruit&gs_l=img.3...2370.3382..3603...0.0..0.119.182.1j1......1....1..gws-wiz-img.Ih_jLCQ2JKI">Apple</a></em></p>
+    </body>
+</html>
