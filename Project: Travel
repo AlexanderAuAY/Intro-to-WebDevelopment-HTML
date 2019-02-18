@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel</title>
+        <style>
+            body 
+            {
+                background-color: rgb(235, 0, 67);
+            }
+            p 
+            {
+                color: white;
+            }
+            h3
+            {
+                color:violet;
+            }
+            #heading 
+            { 
+                color: gold;
+            }
+           
+        </style>
+    </head>
+    <body>
+    
+        <h1 id='heading'>Great Places in the World</h1>
+        
+        <ol class='ordered-lists'>
+            <h3><li>Volcanoes</li></h3>
+            <img src="https://www.kasandbox.org/programming-images/landscapes/lava.png">
+            <p>A volcano is a rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.
+
+Earth's volcanoes occur because its crust is broken into 17 major, rigid tectonic plates that float on a hotter, softer layer in its mantle. Therefore, on Earth, volcanoes are generally found where tectonic plates are diverging or converging, and most are found underwater. For example, a mid-oceanic ridge, such as the Mid-Atlantic Ridge, has volcanoes caused by divergent tectonic plates whereas the Pacific Ring of Fire has volcanoes caused by convergent tectonic plates. Volcanoes can also form where there is stretching and thinning of the crust's plates, e.g., in the East African Rift and the Wells Gray-Clearwater volcanic field and Rio Grande Rift in North America. This type of volcanism falls under the umbrella of "plate hypothesis" volcanism. Volcanism away from plate boundaries has also been explained as mantle plumes. These so-called "hotspots", for example Hawaii, are postulated to arise from upwelling diapirs with magma from the core–mantle boundary, 3,000 km deep in the Earth. Volcanoes are usually not created where two tectonic plates slide past one another.
+
+Erupting volcanoes can pose many hazards, not only in the immediate vicinity of the eruption. One such hazard is that volcanic ash can be a threat to aircraft, in particular those with jet engines where ash particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. Large eruptions can affect temperature as ash and droplets of sulfuric acid obscure the sun and cool the Earth's lower atmosphere (or troposphere); however, they also absorb heat radiated from the Earth, thereby warming the upper atmosphere (or stratosphere). Historically, volcanic winters have caused catastrophic famines. </p>
+            
+            <h3><li>Lake</li></h3>
+            <img src='https://www.kasandbox.org/programming-images/landscapes/lake.png' width='710'>
+            <p>
+Lake Sevan is the largest body of water in Armenia and the Caucasus region. It is one of the largest freshwater high-altitude (alpine) lakes in Eurasia
+
+Peyto Lake, Alberta, Canada
+A lake is an area filled with water, localized in a basin, that is surrounded by land, apart from any river or other outlet that serves to feed or drain the lake. Lakes lie on land and are not part of the ocean, and therefore are distinct from lagoons, and are also larger and deeper than ponds, though there are no official or scientific definitions. Lakes can be contrasted with rivers or streams, which are usually flowing. Most lakes are fed and drained by rivers and streams.
+
+Natural lakes are generally found in mountainous areas, rift zones, and areas with ongoing glaciation. Other lakes are found in endorheic basins or along the courses of mature rivers. In some parts of the world there are many lakes because of chaotic drainage patterns left over from the last Ice Age. All lakes are temporary over geologic time scales, as they will slowly fill in with sediments or spill out of the basin containing them.
+
+Many lakes are artificial and are constructed for industrial or agricultural use, for hydro-electric power generation or domestic water supply, or for aesthetic, recreational purposes, or other activities.</p>
+            
+            <h3><li>Farm</li></h3>
+            <img src='https://www.kasandbox.org/programming-images/landscapes/fields-of-grain.png' width='710'>
+            <p>
+Farmland in the United States. The round fields are due to the use of center pivot irrigation
+
+Typical plan of a mediaeval English manor, showing the use of field strips
+A farm is an area of land that is devoted primarily to agricultural processes with the primary objective of producing food and other crops; it is the basic facility in food production. The name is used for specialised units such as arable farms, vegetable farms, fruit farms, dairy, pig and poultry farms, and land used for the production of natural fibres, biofuel and other commodities. It includes ranches, feedlots, orchards, plantations and estates, smallholdings and hobby farms, and includes the farmhouse and agricultural buildings as well as the land. In modern times the term has been extended so as to include such industrial operations as wind farms and fish farms, both of which can operate on land or sea.
+
+Farming originated independently in different parts of the world, as hunter gatherer societies transitioned to food production rather than, food capture. It may have started about 12,000 years ago with the domestication of livestock in the Fertile Crescent in western Asia, soon to be followed by the cultivation of crops. Modern units tend to specialise in the crops or livestock best suited to the region, with their finished products being sold for the retail market or for further processing, with farm products being traded around the world.
+
+Modern farms in developed countries are highly mechanized. In the United States, livestock may be raised on rangeland and finished in feedlots and the mechanization of crop production has brought about a great decrease in the number of agricultural workers needed. In Europe, traditional family farms are giving way to larger production units. In Australia, some farms are very large because the land is unable to support a high stocking density of livestock because of climatic conditions. In less developed countries, small farms are the norm, and the majority of rural residents are subsistence farmers, feeding their families and selling any surplus products in the local market.</p>
+        
+        </ol>
+    </body>
+</html>
